@@ -1,0 +1,25 @@
+
+1- https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+2- https://cdnjs.com/libraries/OwlCarousel2
+
+3- https://cdnjs.com/libraries/font-awesome
+
+4- Istall nodejs.org in System
+
+5- Install Sass: npm ---
+
+6- install fonts
+	https://fonts.google.com/?query=rubi&sidebar.open=true&selection.family=Baloo+Thambi+2|Raleway|Rubik:ital@1
+
+	Baloo Thambi 2     400
+
+	Raleway  400
+
+	Rubik   400
+
+
+- OwlCarousel2 -->javascript ---><script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js" integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw==" crossorigin="anonymous"></script>
+
+
+
